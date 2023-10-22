@@ -1,0 +1,13 @@
+@import "./components/vars.scss";
+@import "./components/header.scss";
+@import "./components/footer.scss";
+@import "./components/hero.scss";
+
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+}
